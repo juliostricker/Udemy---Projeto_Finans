@@ -8,7 +8,7 @@
 
 ![Home: Finans](https://i.imgur.com/t2WW1po.png")
 
-🔗 [Acesse aqui...](http://https://finansjcs.000webhostapp.com/ "Acesse aqui...")
+🔗 [Acesse aqui...](finansjcs.000webhostapp.com/ "Acesse aqui...")
 
 ------------
 <img src="https://w7.pngwing.com/pngs/817/967/png-transparent-gmail-logo-gmail-email-icon-logo-gmail-logo-angle-text-rectangle.png" width="18"> juliostricker@gmail.com
