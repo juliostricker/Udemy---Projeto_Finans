@@ -1,0 +1,19 @@
+.caixa{
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+.sombra{
+	box-shadow: 2px 2px 8px rgba(0,0,0,.5);
+}
+footer p a{
+	margin: 5px 15px;
+	color: black;
+}
+footer a:hover{
+	display: inline-block;
+	border-radius: 3px;
+	color: white;
+	background: black;
+	text-decoration: none;
+	padding: 5px;
+}
